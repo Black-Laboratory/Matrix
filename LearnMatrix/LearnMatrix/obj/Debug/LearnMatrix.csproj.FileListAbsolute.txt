@@ -1,0 +1,10 @@
+I:\LearnUnityShader\LearnMatrixByC#\LearnMatrix\LearnMatrix\bin\Debug\LearnMatrix.exe.config
+I:\LearnUnityShader\LearnMatrixByC#\LearnMatrix\LearnMatrix\bin\Debug\LearnMatrix.exe
+I:\LearnUnityShader\LearnMatrixByC#\LearnMatrix\LearnMatrix\bin\Debug\LearnMatrix.pdb
+I:\LearnUnityShader\LearnMatrixByC#\LearnMatrix\LearnMatrix\obj\Debug\LearnMatrix.csprojAssemblyReference.cache
+I:\LearnUnityShader\LearnMatrixByC#\LearnMatrix\LearnMatrix\obj\Debug\LearnMatrix.Form1.resources
+I:\LearnUnityShader\LearnMatrixByC#\LearnMatrix\LearnMatrix\obj\Debug\LearnMatrix.Properties.Resources.resources
+I:\LearnUnityShader\LearnMatrixByC#\LearnMatrix\LearnMatrix\obj\Debug\LearnMatrix.csproj.GenerateResource.cache
+I:\LearnUnityShader\LearnMatrixByC#\LearnMatrix\LearnMatrix\obj\Debug\LearnMatrix.csproj.CoreCompileInputs.cache
+I:\LearnUnityShader\LearnMatrixByC#\LearnMatrix\LearnMatrix\obj\Debug\LearnMatrix.exe
+I:\LearnUnityShader\LearnMatrixByC#\LearnMatrix\LearnMatrix\obj\Debug\LearnMatrix.pdb
